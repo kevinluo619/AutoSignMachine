@@ -165,7 +165,7 @@ docker run \
 #增加 --tryrun
 
 ## 指定任务模式，可以指定仅需要运行的子任务，多用户使用规则参看`多用户配置`
-#增加 --tasks taskName1,taskName2,taskName3
+
 ```
 
 ### GitHub Actions 运行问题
